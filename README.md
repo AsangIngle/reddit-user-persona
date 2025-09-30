@@ -53,6 +53,6 @@ This makes it easy to understand the person behind the profile in a detailed and
 
 About the Author
 Asang Triratna Ingle
-Machine Learning Engineer | IIIT Nagpur
+IIIT Nagpur
 Email: asangingle07@email.com
-LinkedIn: linkedin.com/in/your-link
+LinkedIn: [linkedin.com/in/your-link](https://www.linkedin.com/in/asang-ingle-50799a258)
